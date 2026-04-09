@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Experiment 1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8D5E5D8-C3DD-4E1C-93C8-DB7840580C69}|Operators\\Operators.csproj|D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Experiment 1\\operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D5E5D8-C3DD-4E1C-93C8-DB7840580C69}|Operators\\Operators.csproj|solutionrelative:operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6640B67-D31E-4817-A1E9-20F2C0A5BF20}|ForExa\\ForExa.csproj|d:\\dkte\\dot net\\experiments\\dot-net\\experiment 1\\forexa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6640B67-D31E-4817-A1E9-20F2C0A5BF20}|ForExa\\ForExa.csproj|solutionrelative:forexa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BB58FEB6-2439-4337-9E9B-1DF1101EF538}|Math\\Math.csproj|D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Experiment 1\\Math\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB58FEB6-2439-4337-9E9B-1DF1101EF538}|Math\\Math.csproj|solutionrelative:Math\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8D5E5D8-C3DD-4E1C-93C8-DB7840580C69}|Operators\\Operators.csproj|D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Experiment 1\\operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8D5E5D8-C3DD-4E1C-93C8-DB7840580C69}|Operators\\Operators.csproj|solutionrelative:operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BAE23A6-5641-4315-B4F4-0F66EAB4C0E5}|TypeCasting\\TypeCasting.csproj|D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Experiment 1\\typecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,11 +57,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Experiment 1\\ForExa\\Program.cs",
               "RelativeDocumentMoniker": "ForExa\\Program.cs",
@@ -74,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Experiment 1\\WhileExa\\Program.cs",
               "RelativeDocumentMoniker": "WhileExa\\Program.cs",
@@ -86,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Experiment 1\\String\\Program.cs",
               "RelativeDocumentMoniker": "String\\Program.cs",
@@ -98,15 +102,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Experiment 1\\Operators\\Program.cs",
               "RelativeDocumentMoniker": "Operators\\Program.cs",
               "ToolTip": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Experiment 1\\Operators\\Program.cs",
               "RelativeToolTip": "Operators\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:37:34.829Z"
+              "WhenOpened": "2026-01-29T07:37:34.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -158,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Experiment 1\\Math\\Program.cs",
               "RelativeDocumentMoniker": "Math\\Program.cs",
